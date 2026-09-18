@@ -6,7 +6,7 @@ O noso obxectivo é achegar a ciberseguridade a todos e fomentar a aprendizaxe p
 
 ## 📅 Sobre o Evento
 
-**Captura a Bandeira v1** terá lugar o 12 de marzo na ETSE. Este CTF está deseñado para proporcionar unha inmersión práctica no mundo da ciberseguridade, incluíndo áreas como:
+**Captura a Bandeira v2** terá lugar en febreiro de 2027 na ETSE. Este CTF está deseñado para proporcionar unha inmersión práctica no mundo da ciberseguridade, incluíndo áreas como:
 
 - Enxeñaría Inversa
 - Criptoanálise
@@ -17,7 +17,7 @@ O noso obxectivo é achegar a ciberseguridade a todos e fomentar a aprendizaxe p
 
 ## 📋 Como Participar
 
-1. **Inscrición**: Para participar no CTF, primeiro tes que inscribirte [aquí](link_a_páxina_de_inscrición).
+1. **Inscrición**: Para participar no CTF, primeiro tes que inscribirte. Estate atento para ser o primeiro en anotarte!
 2. **Equipos**: Forma un equipo ou únete a un grupo existente. Podes competir como individuo ou en equipos de ata 5 participantes.
 3. **Retos**: Estaremos a ofrecer unha serie de retos adaptados a diferentes niveis de experiencia.
 
